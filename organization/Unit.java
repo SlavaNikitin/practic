@@ -1,5 +1,4 @@
-
-package organization;
+﻿package organization;
 
 import java.util.HashSet;
 import java.util.List;
@@ -57,8 +56,4 @@ public class Unit {
     public String toString() {
         return "Структурная единица{" + "название = " + title + ", родительская структурная единица = " + parent + ", дочерние структурные единицы = " + children + ", head = " + head + ", worker = " + worker + '}';
     }
-
-    
-    
-    
 }

@@ -16,6 +16,4 @@ public class Work {
     public String toString() {
         return "Work{" + "title=" + title + '}';
     }
-    
-    
 }
